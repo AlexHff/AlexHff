@@ -12,5 +12,5 @@
 - 🎓 <samp>Pursuing a M.Sc. in Computer Science @ECE</samp>
 - 🔭 <samp>Interested in computer vision, mathematics, machine learning, and system programming.</samp>
 - 🌱 <samp>Open source enthusiast in C++, JavaScript, Java and more.</samp>
-- 🏠 <samp>Homepage at [ahff.dev](https://ahff.dev).</samp>
+- 🏠 <samp>Homepage at [hoffmann.ai](https://hoffmann.ai/).</samp>
 - 💬 <samp>My [resume](https://github.com/AlexHff/resume/blob/master/resume.pdf).</samp>
