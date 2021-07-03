@@ -1,7 +1,7 @@
 <p align="center">
   <br />
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ahff.dev">Alex</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://hoffmann.ai">Alex</a></b>.
     <br>I'm a <b>Computer Engineering student</b> and <b>freelance Web Developer</b> from France.<br>
   </samp>
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="logo" width="200"/>
